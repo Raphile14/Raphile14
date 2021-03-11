@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/DalanginRaphael">
+<a href="https://twitter.com/DalanginRaphael" target="_blank">
   <img align="left" alt="Raphael Dalangin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/raphael-dalangin">
+<a href="https://www.linkedin.com/in/raphael-dalangin" target="_blank">
   <img align="left" alt="Raphael Dalangin | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/artist/2cdcLzfzTLNxcdxYHbV782?si=-Ak1q3pnTG2_cY6ayaKe1A">
+<a href="https://open.spotify.com/artist/2cdcLzfzTLNxcdxYHbV782?si=-Ak1q3pnTG2_cY6ayaKe1A" target="_blank">
   <img align="left" alt="Raphael Dalangin | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
@@ -30,8 +30,8 @@ Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring S
 - Bisaya
 
 # Organizations:
-- President @ Philippine Society of Information Technology Students - Region XI (Aug 2019 - Present)
-- President @ Malayan Collges Mindanao: Computing Students Society (Jul 2018 - Present)
+- President @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (Aug 2019 - Present)
+- President @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): Computing Students Society (Jul 2018 - Present)
 
 # Ongoing Projects/Work:
 - Counselorr (Jan 2021 - Present)
