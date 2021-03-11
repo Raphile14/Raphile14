@@ -3,7 +3,7 @@
 <a href="https://twitter.com/DalanginRaphael">
   <img align="left" alt="Raphael Dalangin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/raphael-dalangin">
+<a href="https://www.linkedin.com/in/raphael-dalangin">
   <img align="left" alt="Raphael Dalangin | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/artist/2cdcLzfzTLNxcdxYHbV782?si=-Ak1q3pnTG2_cY6ayaKe1A">
