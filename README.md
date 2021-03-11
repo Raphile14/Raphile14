@@ -10,7 +10,7 @@
   <img align="left" alt="Raphael Dalangin | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<br>
+<br> <br>
 
 Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring Software, Game, and Web Developer from the Philippines. Currently a 3rd Year College Student at Malayan Colleges Mindanao. Taking up Bachelor of Science in Computer Science. I love playing video games, playing the guitar, writing, and composing music!
 
