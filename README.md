@@ -42,7 +42,7 @@ Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring S
 
 # Ongoing Projects/Work:
 - MCM CCIS Website (June 2021 - Present)
-- Feed The Cube (May 2021)
+- Feed The Cube (May 2021 - Present)
 
 # Finished Projects/Work:
 ## Web Development:
