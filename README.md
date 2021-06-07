@@ -41,14 +41,17 @@ Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring S
 - President @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): Computing Students Society (Jul 2018 - Present)
 
 # Ongoing Projects/Work:
-- Away From The Cube (Oct 2020 - Present)
 - MCM CCIS Website (June 2021 - Present)
+- Feed The Cube (May 2021)
 
 # Finished Projects/Work:
+## Web Development:
 - [MCM Virtual Marketplace 2020](https://github.com/Raphile14/MCM-Virtual-Marketplace) (Dec 2020)
 - [MCM Fusion: Technicity Voting Website and Server](https://github.com/Raphile14/MCMFusionServer) (Sep 2020 - Oct 2020)
 - [MCM Virtual Club Fair Website and Server](https://github.com/Raphile14/MCMVirtualClubFair2020) (Oct 2020)
 - Counselorr/ChatTalkCGC (repository is private) (Jan 2021 - April 2021)
+## Game Development:
+- [Away From The Cube](https://coding-catharsis.itch.io/away-from-the-cube) (Oct 2020)
 
 <!--
 **Raphile14/Raphile14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
