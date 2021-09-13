@@ -17,11 +17,15 @@
 
 Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring Software, Game, and Web Developer from the Philippines. Currently a 3rd Year College Student at Malayan Colleges Mindanao. Taking up Bachelor of Science in Computer Science. I love playing video games, playing the guitar, writing, and composing music!
 
+# Contact Details:
+- Email: raphaeldalangin@codingcatharsis.com
+
 # Programming Languages:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 # Structure and Styles:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -33,15 +37,15 @@ Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring S
 
 # Languages:
 - English
-- Tagalog
-- Bisaya
+- Filipino
 
 # Organizations:
-- President @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (Aug 2019 - Present)
+- President @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (2019 - 2021)
 - President @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): Computing Students Society (Jul 2018 - Present)
+- Member @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): College League of Student Leaders (2020 - Present)
+- Public Relations Officer @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (2018 - 2019)
 
 # Ongoing Projects/Work:
-- MCM CCIS Website (June 2021 - Present)
 - Feed The Cube (May 2021 - Present)
 
 # Finished Projects/Work:
@@ -50,6 +54,7 @@ Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring S
 - [MCM Fusion: Technicity Voting Website and Server](https://github.com/Raphile14/MCMFusionServer) (Sep 2020 - Oct 2020)
 - [MCM Virtual Club Fair Website and Server](https://github.com/Raphile14/MCMVirtualClubFair2020) (Oct 2020)
 - Counselorr/ChatTalkCGC (repository is private) (Jan 2021 - April 2021)
+- MCM CCIS Website (repository is private) (June 2021 - Aug 2021)
 ## Game Development:
 - [Away From The Cube](https://coding-catharsis.itch.io/away-from-the-cube) (Oct 2020)
 
