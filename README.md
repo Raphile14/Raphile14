@@ -15,7 +15,7 @@
 
 <br> <br>
 
-Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring Software, Game, and Web Developer from the Philippines. Currently a 3rd Year College Student at Malayan Colleges Mindanao. Taking up Bachelor of Science in Computer Science. I love playing video games, playing the guitar, writing, and composing music! 
+Hi, I am [Raphael Dalangin](www.linkedin.com/in/raphael-dalangin), an aspiring Software, Game, and Web Developer from the Philippines. Currently a 4th Year College Student at Malayan Colleges Mindanao. Taking up Bachelor of Science in Computer Science. I love playing video games, playing the guitar, writing, and composing music! 
 
 # Contact Details:
 - Email: raphaeldalangin@codingcatharsis.com
