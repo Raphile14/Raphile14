@@ -15,7 +15,7 @@
 
 <br> <br>
 
-Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank"> Raphael Dalangin </a>, an aspiring Software, Game, and Web Developer from the Philippines. Currently a 4th Year College Student at Malayan Colleges Mindanao. Taking up Bachelor of Science in Computer Science. I love playing video games, playing the guitar, writing, and composing music! Link to my <a href="https://raphile14.github.io/" target="_blank"> Portfolio </a>.
+Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank"> Raphael Dalangin </a>, an aspiring Software, Game, and Web Developer from the Philippines. Currently a 4th Year College Student at Malayan Colleges Mindanao. Taking up Bachelor of Science in Computer Science. I love playing video games, playing the guitar, writing, and composing music! Link to my <a href="https://raphaeldalangin.com/" target="_blank"> Portfolio </a>.
 
 # Contact Details:
 - Email: raphaeldalangin@codingcatharsis.com
