@@ -1,74 +1,71 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/DalanginRaphael" target="_blank">
-  <img align="left" alt="Raphael Dalangin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Raphael Dalangin | Twitter" width="22px" src="./assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/raphael-dalangin" target="_blank">
-  <img align="left" alt="Raphael Dalangin | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Raphael Dalangin | LinkedIN" width="22px" src="./assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/artist/2cdcLzfzTLNxcdxYHbV782?si=-Ak1q3pnTG2_cY6ayaKe1A" target="_blank">
-  <img align="left" alt="Raphael Dalangin | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Raphael Dalangin | Spotify" width="22px" src="./assets/spotify.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCoc8rmxpgsxx1JO4Fiq9niQ" target="_blank">
-  <img align="left" alt="Coding Catharsis | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Coding Catharsis | Youtube" width="22px" src="./assets/youtube.svg" />
 </a>
 
 <br> <br>
 
-Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank"> Raphael Dalangin </a>, an aspiring Software, Game, and Web Developer from the Philippines. Currently a 4th Year College Student at Malayan Colleges Mindanao. Taking up Bachelor of Science in Computer Science. I love playing video games, playing the guitar, writing, and composing music! Link to my <a href="https://raphaeldalangin.com/" target="_blank"> Portfolio </a>.
+Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank"> Raphael Dalangin </a>, an aspiring Software, Game, and Web Developer from the Philippines. A Bachelor of Science in Computer Science graduate from Mapúa Malayan Colleges Mindanao. I love playing video games, playing the guitar, writing, and composing music! Link to my <a href="https://raphaeldalangin.com/" target="_blank"> Portfolio </a>.
 
 # Contact Details:
-- Email: raphaeldalangin@codingcatharsis.com
+
+-   Email: rl.dalangin@works-telemondo.com
 
 # Programming Languages:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
+<code><img height="20" src="./assets/javascript.png"></code>
+<code><img height="20" src="./assets/python.png"></code>
+<code><img height="20" src="./assets/java.png"></code>
+<code><img height="20" src="./assets/csharp.png"></code>
+<code><img height="20" src="./assets/sql.png"></code>
 
 # Structure and Styles:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<code><img height="20" src="./assets/html.png"></code>
+<code><img height="20" src="./assets/css.png"></code>
 
 # Development Platforms:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+
+<code><img height="20" src="./assets/nodejs.png"></code>
+<code><img height="20" src="./assets/unity.png"></code>
 
 # Languages:
-- English
-- Filipino
+
+-   English
+-   Filipino
 
 # Organizations:
-- President @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (2019 - 2021)
-- President @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): Computing Students Society (Jul 2018 - Present)
-- Member @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): College League of Student Leaders (2020 - Present)
-- Public Relations Officer @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (2018 - 2019)
+
+-   President @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (2019 - 2022)
+-   President @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): Computing Students Society (Jul 2018 - Present)
+-   Member @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): College League of Student Leaders (2020 - Present)
+-   Public Relations Officer @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (2018 - 2019)
 
 # Ongoing Projects/Work:
-- Feed The Cube (May 2021 - Present)
+
+-   Feed The Cube (May 2021 - Present)
 
 # Finished Projects/Work:
+
 ## Web Development:
-- [MCM Virtual Marketplace 2020](https://github.com/Raphile14/MCM-Virtual-Marketplace) (Dec 2020)
-- [MCM Fusion: Technicity Voting Website and Server](https://github.com/Raphile14/MCMFusionServer) (Sep 2020 - Oct 2020)
-- [MCM Virtual Club Fair Website and Server](https://github.com/Raphile14/MCMVirtualClubFair2020) (Oct 2020)
-- Counselorr/ChatTalkCGC (repository is private) (Jan 2021 - April 2021)
-- MCM CCIS Website (repository is private) (June 2021 - Aug 2021)
+
+-   [MCM Virtual Marketplace 2020](https://github.com/Raphile14/MCM-Virtual-Marketplace) (Dec 2020)
+-   [MCM Fusion: Technicity Voting Website and Server](https://github.com/Raphile14/MCMFusionServer) (Sep 2020 - Oct 2020)
+-   [MCM Virtual Club Fair Website and Server](https://github.com/Raphile14/MCMVirtualClubFair2020) (Oct 2020)
+-   Counselorr/ChatTalkCGC (repository is private) (Jan 2021 - April 2021)
+-   MCM CCIS Website (repository is private) (June 2021 - Aug 2021)
+
 ## Game Development:
-- [Away From The Cube](https://coding-catharsis.itch.io/away-from-the-cube) (Oct 2020)
-- [Rolling Along](https://coding-catharsis.itch.io/rolling-along) (Oct 2021) PROTOTYPE
 
-<!--
-**Raphile14/Raphile14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   [Away From The Cube](https://coding-catharsis.itch.io/away-from-the-cube) (Oct 2020)
+-   [Rolling Along](https://coding-catharsis.itch.io/rolling-along) (Oct 2021) PROTOTYPE
