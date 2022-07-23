@@ -47,8 +47,8 @@ Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank
 # Organizations:
 
 -   President @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (2019 - 2022)
--   President @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): Computing Students Society (Jul 2018 - Present)
--   Member @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): College League of Student Leaders (2020 - Present)
+-   President @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): Computing Students Society (2018 - 2022)
+-   Member @ [Malayan Colleges Mindanao](https://mcm.edu.ph/): College League of Student Leaders (2020 - 2021)
 -   Public Relations Officer @ [Philippine Society of Information Technology Students](https://www.facebook.com/WeArePsitsXI) - Region XI (2018 - 2019)
 
 # Ongoing Projects/Work:
