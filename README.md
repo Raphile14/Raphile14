@@ -15,11 +15,13 @@
 
 <br> <br>
 
-Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank"> Raphael Dalangin </a>, an aspiring Software, Game, and Web Developer from the Philippines. A Bachelor of Science in Computer Science graduate from Mapúa Malayan Colleges Mindanao. I love playing video games, playing the guitar, writing, and composing music! Link to my <a href="https://raphaeldalangin.com/" target="_blank"> Portfolio </a>.
+Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank"> Raphael Dalangin </a>, an aspiring Software, Game, and Web Developer from the Philippines. A Bachelor of Science in Computer Science graduate from Mapúa Malayan Colleges Mindanao. I love playing video games, playing the guitar, writing, and composing music! 
+
+<!-- Link to my <a href="https://raphaeldalangin.com/" target="_blank"> Portfolio </a>. -->
 
 # Contact Details:
 
--   Email: rl.dalangin@works-telemondo.com
+-   Email: dalanginraphael@gmail.com
 
 # Programming Languages:
 
@@ -43,6 +45,7 @@ Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank
 
 -   English
 -   Filipino
+-   Bisaya
 
 # Organizations:
 
