@@ -17,7 +17,7 @@
 
 Hi, I am <a href="https://www.linkedin.com/in/raphael-dalangin" target = "_blank"> Raphael Dalangin </a>, an aspiring Software, Game, and Web Developer from the Philippines. A Bachelor of Science in Computer Science graduate from Mapúa Malayan Colleges Mindanao. I love playing video games, playing the guitar, writing, and composing music! 
 
-Link to my [Portfolio](https://raphile14.github.io).
+Link to my [Portfolio](https://raphaeldalangin.com).
 
 # Contact Details:
 
